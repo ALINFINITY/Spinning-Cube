@@ -22,11 +22,11 @@
 
 `gcc .\cubew.c -o cube`
 
-*Ejecución desde terminal:
+* Ejecución desde terminal:
 
 `./cube`
 
-*Ejecución directa:
+* Ejecución directa:
 
 Una vex compilado el programa se genera el archivo **cube.exe**, ejecutelo como un programa normal.
 
